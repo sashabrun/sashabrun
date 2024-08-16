@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasha Brun</h1>
 <h3 align="center">A passionate computer science student from France</h3>
 
-- 🌱 I am currently learning **Cybersecurity and Development**
+- 🌱 I am currently learning **Web Development**
 
 - 📫 How to reach me **brun.sash@gmail.com**
 
